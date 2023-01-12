@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/cooke_c/Documents/GitHub/VLP-LiDAR-Interface-Box/LiDAR Interface Box.kicad_sch</source>
+    <date>2023 January 12, Thursday 20:10:30</date>
+    <tool>Eeschema (6.0.9-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LiDAR Interface Box.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>5KPxxA</value>
+      <footprint>Diode_THT:D_P600_R-6_P20.00mm_Horizontal</footprint>
+      <datasheet>https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf</datasheet>
+      <libsource lib="Diode" part="5KPxxA" description="5000W unidirectional Transient Voltage Suppressor, P-600"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5c73843-c1fc-4e21-880c-1f935ce26f04</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PJ-102A</value>
+      <footprint>PJ-102A:CUI_PJ-102A</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI INC</field>
+        <field name="PART_REV">1.03</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+      </fields>
+      <libsource lib="PJ-102A" part="PJ-102A" description=""/>
+      <property name="MANUFACTURER" value="CUI INC"/>
+      <property name="PART_REV" value="1.03"/>
+      <property name="STANDARD" value="Manufacturer recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2091bead-cfca-4958-9736-2998ce1e0ec1</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SS-6488-NF</value>
+      <footprint>BEL_SS-6488-NF</footprint>
+      <fields>
+        <field name="MANUFACTURER">Bel Fuse</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">12.82 mm</field>
+        <field name="PARTREV">D4</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="SS-6488-NF" part="SS-6488-NF" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="12.82 mm"/>
+      <property name="MANUFACTURER" value="Bel Fuse"/>
+      <property name="PARTREV" value="D4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b18ad05-7fcd-4874-b2e7-266eeb5e2df0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>691242710009</value>
+      <footprint>691242710009:691242710009</footprint>
+      <fields>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691242710009.pdf</field>
+        <field name="IR-UL">14A</field>
+        <field name="IR-VDE">24A</field>
+        <field name="MOUNT">THT</field>
+        <field name="PART-NUMBER">691242710009</field>
+        <field name="PINS">9</field>
+        <field name="PITCH">5mm</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="WIRE">30 to 12 (AWG) 0.0509 to 3.31 (mm²)</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+        <field name="WORKING-VOLTAGE-VDE">250V (AC)</field>
+      </fields>
+      <libsource lib="691242710009" part="691242710009" description=""/>
+      <property name="IR-VDE" value="24A"/>
+      <property name="WORKING-VOLTAGE-UL" value="300V (AC)"/>
+      <property name="IR-UL" value="14A"/>
+      <property name="PITCH" value="5mm"/>
+      <property name="WIRE" value="30 to 12 (AWG) 0.0509 to 3.31 (mm²)"/>
+      <property name="TYPE" value="Horizontal"/>
+      <property name="PART-NUMBER" value="691242710009"/>
+      <property name="DATASHEET-URL" value="https://www.we-online.com/catalog/datasheet/691242710009.pdf"/>
+      <property name="PINS" value="9"/>
+      <property name="WORKING-VOLTAGE-VDE" value="250V (AC)"/>
+      <property name="MOUNT" value="THT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>960d2af8-93b9-4b30-b6c6-2f00bf6dd3ce</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>691214110002</value>
+      <footprint>691214110002:691214110002</footprint>
+      <libsource lib="691214110002" part="691214110002" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a13b70e4-9ef1-4078-ae87-1f6783916de1</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>TSW-101-26-L-T</value>
+      <footprint>TSW-101-26-L-T:SAMTEC_TSW-101-26-L-T</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="PARTREV">R</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TSW-101-26-L-T" part="TSW-101-26-L-T" description=""/>
+      <property name="PARTREV" value="R"/>
+      <property name="MANUFACTURER" value="Samtec"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1256c3bc-d428-49fe-915b-ce42651f60c5</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>01530007Z</value>
+      <footprint>01530007Z:FUSE_01530007Z</footprint>
+      <fields>
+        <field name="MANUFACTURER">Littelfuse</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7.62mm</field>
+        <field name="PARTREV">041720-A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="01530007Z" part="01530007Z" description=""/>
+      <property name="PARTREV" value="041720-A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="7.62mm"/>
+      <property name="MANUFACTURER" value="Littelfuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LiDAR Interface Box.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1abbc380-9210-42e6-8211-1d828d9394c4</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="01530007Z" part="01530007Z">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">01530007Z</field>
+        <field name="Footprint">FUSE_01530007Z</field>
+        <field name="PARTREV">041720-A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7.62mm</field>
+        <field name="MANUFACTURER">Littelfuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="691214110002" part="691214110002">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">691214110002</field>
+        <field name="Footprint">691214110002</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="691242710009" part="691242710009">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">691242710009</field>
+        <field name="Footprint">691242710009</field>
+        <field name="IR-VDE">24A</field>
+        <field name="WORKING-VOLTAGE-UL">300V (AC)</field>
+        <field name="IR-UL">14A</field>
+        <field name="PITCH">5mm</field>
+        <field name="WIRE">30 to 12 (AWG) 0.0509 to 3.31 (mm²)</field>
+        <field name="TYPE">Horizontal</field>
+        <field name="PART-NUMBER">691242710009</field>
+        <field name="DATASHEET-URL">https://www.we-online.com/catalog/datasheet/691242710009.pdf</field>
+        <field name="PINS">9</field>
+        <field name="WORKING-VOLTAGE-VDE">250V (AC)</field>
+        <field name="MOUNT">THT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="5KPxxA">
+      <description>5000W unidirectional Transient Voltage Suppressor, P-600</description>
+      <docs>https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf</docs>
+      <footprints>
+        <fp>D?P600*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">5KPxxA</field>
+        <field name="Footprint">Diode_THT:D_P600_R-6_P20.00mm_Horizontal</field>
+        <field name="Datasheet">https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PJ-102A" part="PJ-102A">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PJ-102A</field>
+        <field name="Footprint">CUI_PJ-102A</field>
+        <field name="MANUFACTURER">CUI INC</field>
+        <field name="PART_REV">1.03</field>
+        <field name="STANDARD">Manufacturer recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS-6488-NF" part="SS-6488-NF">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SS-6488-NF</field>
+        <field name="Footprint">BEL_SS-6488-NF</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">12.82 mm</field>
+        <field name="MANUFACTURER">Bel Fuse</field>
+        <field name="PARTREV">D4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TSW-101-26-L-T" part="TSW-101-26-L-T">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TSW-101-26-L-T</field>
+        <field name="Footprint">SAMTEC_TSW-101-26-L-T</field>
+        <field name="PARTREV">R</field>
+        <field name="MANUFACTURER">Samtec</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="01" name="01" type="passive"/>
+        <pin num="02" name="02" type="passive"/>
+        <pin num="03" name="03" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="D1" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="X1" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="/12V_PRE_FUSE">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="X1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/ETHERNET_RX+">
+      <node ref="J2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="7" pintype="passive"/>
+    </net>
+    <net code="4" name="/ETHERNET_RX-">
+      <node ref="J2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J3" pin="8" pintype="passive"/>
+    </net>
+    <net code="5" name="/ETHERNET_TX+">
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="5" pintype="passive"/>
+    </net>
+    <net code="6" name="/ETHERNET_TX-">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="6" pintype="passive"/>
+    </net>
+    <net code="7" name="/GPS_PULSE_CNT">
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="J5" pin="01" pinfunction="01" pintype="passive"/>
+    </net>
+    <net code="8" name="/GPS_RXD_CNT">
+      <node ref="J3" pin="4" pintype="passive"/>
+      <node ref="J5" pin="02" pinfunction="02" pintype="passive"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="D1" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="J3" pin="9" pintype="passive"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="J5" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="13" name="unconnected-(J2-Pad7)">
+      <node ref="J2" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="14" name="unconnected-(J2-Pad8)">
+      <node ref="J2" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+  </nets>
+</export>

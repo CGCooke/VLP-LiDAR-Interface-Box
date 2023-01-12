@@ -1,0 +1,29 @@
+"Source:","/Users/cooke_c/Documents/GitHub/VLP-LiDAR-Interface-Box/LiDAR Interface Box.kicad_sch"
+"Date:","2023 January 12, Thursday 20:10:30"
+"Tool:","Eeschema (6.0.9-0)"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","7"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DATASHEET-URL","IR-UL","IR-VDE","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MOUNT","PART-NUMBER","PARTREV","PART_REV","PINS","PITCH","STANDARD","TYPE","WIRE","WORKING-VOLTAGE-UL","WORKING-VOLTAGE-VDE"
+"","","D1","5KPxxA","Diode:5KPxxA","Diode_THT:D_P600_R-6_P20.00mm_Horizontal","https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf","","","","","","","","","","","","","","","",""
+"","","J1","PJ-102A","PJ-102A:PJ-102A","PJ-102A:CUI_PJ-102A","","","","","CUI INC","","","","","1.03","","","Manufacturer recommendations","","","",""
+"","","J2","SS-6488-NF","SS-6488-NF:SS-6488-NF","BEL_SS-6488-NF","","","","","Bel Fuse","12.82 mm","","","D4","","","","Manufacturer Recommendations","","","",""
+"","","J3","691242710009","691242710009:691242710009","691242710009:691242710009","","https://www.we-online.com/catalog/datasheet/691242710009.pdf","14A","24A","","","THT","691242710009","","","9","5mm","","Horizontal","30 to 12 (AWG) 0.0509 to 3.31 (mm²)","300V (AC)","250V (AC)"
+"","","J4","691214110002","691214110002:691214110002","691214110002:691214110002","","","","","","","","","","","","","","","","",""
+"","","J5","TSW-101-26-L-T","TSW-101-26-L-T:TSW-101-26-L-T","TSW-101-26-L-T:SAMTEC_TSW-101-26-L-T","","","","","Samtec","","","","R","","","","Manufacturer Recommendations","","","",""
+"","","X1","01530007Z","01530007Z:01530007Z","01530007Z:FUSE_01530007Z","","","","","Littelfuse","7.62mm","","","041720-A","","","","Manufacturer Recommendations","","","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DATASHEET-URL","IR-UL","IR-VDE","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MOUNT","PART-NUMBER","PARTREV","PART_REV","PINS","PITCH","STANDARD","TYPE","WIRE","WORKING-VOLTAGE-UL","WORKING-VOLTAGE-VDE"
+"1","1","D1","5KPxxA","Diode:5KPxxA","Diode_THT:D_P600_R-6_P20.00mm_Horizontal","https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf","","","","","","","","","","","","","","","",""
+"2","1","J1","PJ-102A","PJ-102A:PJ-102A","PJ-102A:CUI_PJ-102A","","","","","CUI INC","","","","","1.03","","","Manufacturer recommendations","","","",""
+"3","1","J2","SS-6488-NF","SS-6488-NF:SS-6488-NF","BEL_SS-6488-NF","","","","","Bel Fuse","12.82 mm","","","D4","","","","Manufacturer Recommendations","","","",""
+"4","1","J3","691242710009","691242710009:691242710009","691242710009:691242710009","","https://www.we-online.com/catalog/datasheet/691242710009.pdf","14A","24A","","","THT","691242710009","","","9","5mm","","Horizontal","30 to 12 (AWG) 0.0509 to 3.31 (mm²)","300V (AC)","250V (AC)"
+"5","1","J4","691214110002","691214110002:691214110002","691214110002:691214110002","","","","","","","","","","","","","","","","",""
+"6","1","J5","TSW-101-26-L-T","TSW-101-26-L-T:TSW-101-26-L-T","TSW-101-26-L-T:SAMTEC_TSW-101-26-L-T","","","","","Samtec","","","","R","","","","Manufacturer Recommendations","","","",""
+"7","1","X1","01530007Z","01530007Z:01530007Z","01530007Z:FUSE_01530007Z","","","","","Littelfuse","7.62mm","","","041720-A","","","","Manufacturer Recommendations","","","",""
